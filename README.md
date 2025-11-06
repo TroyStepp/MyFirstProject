@@ -1,3 +1,5 @@
+## MyFirstProject
+
 In this lab, you will write a small Java program that reads student grades from a text file and displays them on the screen.
 You will also handle the case when the file is missing using a try–catch block.
 

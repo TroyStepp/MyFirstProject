@@ -18,3 +18,5 @@ File not found!
 
 Updated README with lab instructions.
  Try  to add a file into the main java they creat an my file = new file that will allow you to put the information inot that file,  Edit added by Diego Salas.
+ ## Collaboration Acknowledgment
+ This project was reviewed and edited by [Diego Salas] on GitHub.
